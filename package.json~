@@ -1,0 +1,30 @@
+{
+  "name": "98In1",
+  "version": "0.0.1",
+  "description": "trying interesing node and front-side module.",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ZhangRGK",
+  "dependencies": {
+    "express": "~3.4.7",
+    "jade": "~1.1.4",
+    "less": "~1.6.0"
+  },
+  "devDependencies": {
+    "bower": "~1.2.8",
+    "grunt": "~0.4.2"
+  }
+}
+
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  
+  "dependencies": {
+    "express": "3.4.7",
+    "jade": "*",
+    "less-middleware": "*"
+  }
+}
